@@ -49,7 +49,7 @@
     "uniqCompNum": 32,
     "versionPublish": "5.6.0",
     "favicon": false,
-    "mbrsiteDomain": "vataethi3v",
+    "mbrsiteDomain": "g0f7jrocbu",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -57,7 +57,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "screenshot": "screenshot.png"
   },
   "pages": {
